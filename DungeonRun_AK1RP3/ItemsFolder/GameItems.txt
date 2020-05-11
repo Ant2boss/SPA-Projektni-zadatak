@@ -1,0 +1,188 @@
+1 0 500
+3 0 4 1 0
+Wodden Sword
+To get you started!
+1 0 350
+0 0 25 0 0
+Nightfall
+Extremley sharp
+1 0 350
+25 0 10 0 25
+Barbaric crusader
+Held together by tape
+1 1 750
+10 10 50 -50
+Limbo
+A heavy strong sword
+1 0 500
+10 0 25 0 50
+Fogret me not
+A blade which can't be forgoten
+1 8 750
+0 0 100 0 -75
+Desolation
+Nothing is left behind
+1 0 350
+20 0 25 0 25
+Dire Rapier
+A slim long sword for poking
+2 5 750
+5 25 5 25 0
+Ragnarok
+I have the power
+2 0 600
+50 50 0 0 50
+Insight
+Only those without eyes truly see
+2 1 600
+10 25 5 50 -100
+Twister
+My magic is just starting
+2 7 1000
+0 0 0 100 0
+Mercy?
+I am not even done
+2 7 550
+25 0 25 0 50
+Faithkeeper
+Used to heal wounds
+3 2 750
+0 0 25 0 0
+Whisper
+Hey, listen!
+3 3 1500
+50 0 100 0 -50
+Shooting star
+One shot, one kill
+3 5 750
+10 10 10 10 10
+Valkyrie
+An all rounder
+3 6 500
+50 0 10 0 25
+Trophy gatherer
+A nice addition to the collection
+1 2 300
+5 0 5 0 25
+Iron Dagger
+With authentic blood stains
+2 4 750
+0 3 5 5 25
+Small staff
+For using simple spells
+3 1 850
+5 5 2 5 10
+Crossbow
+For shooting across maps
+4 0 0
+0 10 0 0 25
+Wizzard hat
+A blue hat with yellow stars
+4 0 0
+25 0 0 0 0
+Soul furry
+Protects the eyes
+4 0 0
+0 0 35 35 0
+Bloodlords cap
+Freshly cleaned
+4 0 0
+25 25 25 25 -75
+Soul of Doom
+DOOM!
+4 0 0
+50 0 0 0 25
+Edge of light
+Lightweight heavy armor
+4 0 0
+0 15 0 0 75
+Helmet of speed
+A speedy recovery
+5 0 0
+0 25 0 25 0
+Oath of agony
+A chestplate filled with pain
+5 0 0
+75 0 0 0 -50
+Guard of immortals
+Damage, where?
+5 0 0
+0 0 35 0 25
+Warriors robes
+Robes of a warrior
+5 0 0
+0 50 0 50 -50
+Destroyer of regret
+A regretfull decision... NOT!
+5 0 0
+25 25 25 25 -75
+Wit of the giants
+A heavy armor, made for giants
+5 0 0
+10 0 0 0 0
+Iron chestplate
+Allow you to take more hits
+6 0 0
+0 0 0 0 75
+Pants of swiftness
+Gotta go fast
+6 0 0
+-25 0 100 0 0
+Demise of bravery
+You go boom both ways
+6 0 0
+25 25 0 0 0
+Legplates of twilight
+Where one falls two will sprout
+6 0 0
+0 0 25 25 -25
+Skirt of ends
+skrt skrt
+6 0 0
+15 15 5 0 15
+Scaled Kilt
+A kilt with mostly scales on it
+6 0 0
+25 25 25 25 -75
+Giants legguards
+Large legguards for protection
+7 0 0
+0 0 15 10 -20
+Stompers
+The bigger they are
+7 0 0
+0 25 0 25 0
+Walkers of Illusions
+Boots for magic
+7 0 0
+10 10 5 5 15
+Footpads of justice
+For justice
+7 0 0
+25 0 0 0 50
+Cloth Heels
+It's like socks
+7 0 0
+25 25 25 25 -75
+Giants sandals
+What are those?!
+8 0 0
+5 5 5 5 5
+Daniels' ring
+A ring to help you pass
+8 0 0
+25 0 0 0 0
+Soul of vengance
+It's coming for you
+8 0 0
+0 0 25 0 0
+Treachery
+A book with plant in it
+8 0 0
+0 25 0 25 0
+Eclipse
+A magic casters wish
+8 0 0
+25 25 25 25 -75
+Giants book
+A large book with big letters
